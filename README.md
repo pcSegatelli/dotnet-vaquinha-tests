@@ -1,4 +1,8 @@
+
+Incluído no projeto base o teste Doacao_UsuarioAceitaPagarComTaxa_DoacaoValida
+
 # dotnet-vaquinha-tests
+
 Projeto Base para Testes - .Net Core  
 
 ## Digital Innovation One
